@@ -1,0 +1,11 @@
+# Problem: Convert the Temperature
+# Difficulty: Easy
+# URL: https://leetcode.com/problems/convert-the-temperature/
+# Runtime: 0 ms
+# Memory: 12.5 MB
+
+class Solution(object):
+    def convertTemperature(self, celsius):
+        kelvin = celsius + 273.15
+        fahrenheit = celsius * 1.80 + 32.00
+        return [kelvin, fahrenheit]

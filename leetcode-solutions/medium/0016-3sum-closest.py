@@ -1,0 +1,29 @@
+# Problem: 3Sum Closest
+# Difficulty: Medium
+# URL: https://leetcode.com/problems/3sum-closest/
+# Runtime: 453 ms
+# Memory: 12.4 MB
+
+class Solution(object):
+    def threeSumClosest(self, nums, target):
+        nums.sort()
+        closest = float('inf')
+        
+        for i in range(len(nums) - 2):
+            left = i + 1
+            right = len(nums) - 1
+            
+            while left < right:
+                total = nums[i] + nums[left] + nums[right]
+                
+                if abs(total - target) < abs(closest - target):
+                    closest = total
+                
+                if total < target:
+                    left += 1
+                elif total > target:
+                    right -= 1
+                else:
+                    return target
+        
+        return closest

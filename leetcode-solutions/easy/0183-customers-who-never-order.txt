@@ -1,0 +1,10 @@
+# Problem: Customers Who Never Order
+# Difficulty: Easy
+# URL: https://leetcode.com/problems/customers-who-never-order/
+# Runtime: 811 ms
+# Memory: 0.0B
+
+# Write your MySQL query statement below
+SELECT name AS Customers
+FROM Customers
+WHERE id NOT IN (SELECT customerId FROM Orders)

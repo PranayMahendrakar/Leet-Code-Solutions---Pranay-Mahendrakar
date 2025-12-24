@@ -1,0 +1,11 @@
+# Problem: Employees Earning More Than Their Managers
+# Difficulty: Easy
+# URL: https://leetcode.com/problems/employees-earning-more-than-their-managers/
+# Runtime: 332 ms
+# Memory: 0.0B
+
+# Write your MySQL query statement below
+SELECT e1.name AS Employee
+FROM Employee e1
+JOIN Employee e2 ON e1.managerId = e2.id
+WHERE e1.salary > e2.salary
