@@ -117,6 +117,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +138,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Shortest Path
 |  |
 | ------- |
@@ -154,4 +156,8 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4050-minimum-days-to-score-exactly-n-points) |
+## Simulation
+|  |
+| ------- |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
 <!---LeetCode Topics End-->
