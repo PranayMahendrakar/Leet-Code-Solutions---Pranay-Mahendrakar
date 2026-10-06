@@ -97,6 +97,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [4059-lexicographically-largest-power-array](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4059-lexicographically-largest-power-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -122,6 +123,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4054-count-shadow-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4059-lexicographically-largest-power-array](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4059-lexicographically-largest-power-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -174,4 +176,8 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4059-lexicographically-largest-power-array](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4059-lexicographically-largest-power-array) |
 <!---LeetCode Topics End-->
