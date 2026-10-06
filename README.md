@@ -121,6 +121,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4054-count-shadow-pairs-i) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,4 +169,9 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+## Sorting
+|  |
+| ------- |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 <!---LeetCode Topics End-->
