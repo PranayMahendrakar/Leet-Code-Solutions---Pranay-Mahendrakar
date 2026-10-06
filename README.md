@@ -115,6 +115,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
 | [4045-count-robot-groups](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4045-count-robot-groups) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -139,4 +140,8 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
+## Hash Table
+|  |
+| ------- |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 <!---LeetCode Topics End-->
