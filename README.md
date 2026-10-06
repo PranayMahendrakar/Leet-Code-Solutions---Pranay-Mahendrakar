@@ -124,6 +124,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4054-count-shadow-pairs-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4054-count-shadow-pairs-i) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4059-lexicographically-largest-power-array](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4059-lexicographically-largest-power-array) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +160,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4050-minimum-days-to-score-exactly-n-points) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
 | ------- |
