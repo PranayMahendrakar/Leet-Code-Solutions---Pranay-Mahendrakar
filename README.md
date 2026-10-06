@@ -107,6 +107,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 | [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,6 +128,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4062-transform-array-using-pair-operations) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +161,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Math
 |  |
 | ------- |
