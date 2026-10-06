@@ -86,6 +86,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +99,12 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sliding Window
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
