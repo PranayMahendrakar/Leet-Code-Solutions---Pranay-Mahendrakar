@@ -129,6 +129,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4062-transform-array-using-pair-operations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4062-transform-array-using-pair-operations) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -171,6 +172,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4050-minimum-days-to-score-exactly-n-points](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4050-minimum-days-to-score-exactly-n-points) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Simulation
 |  |
 | ------- |
@@ -180,10 +182,12 @@ If you find these solutions helpful, please consider giving this repository a st
 | ------- |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Sorting
 |  |
 | ------- |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4068-maximize-meeting-earnings-with-idle-gaps) |
 ## Bit Manipulation
 |  |
 | ------- |
