@@ -146,4 +146,12 @@ If you find these solutions helpful, please consider giving this repository a st
 | ------- |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+## Math
+|  |
+| ------- |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4050-minimum-days-to-score-exactly-n-points) |
+## Dynamic Programming
+|  |
+| ------- |
+| [4050-minimum-days-to-score-exactly-n-points](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4050-minimum-days-to-score-exactly-n-points) |
 <!---LeetCode Topics End-->
