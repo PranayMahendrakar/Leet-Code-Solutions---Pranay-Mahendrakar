@@ -92,6 +92,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [4045-count-robot-groups](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4045-count-robot-groups) |
+| [4054-count-shadow-pairs-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4054-count-shadow-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +120,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
+| [4054-count-shadow-pairs-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4054-count-shadow-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -127,6 +129,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4045-count-robot-groups](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4045-count-robot-groups) |
+| [4054-count-shadow-pairs-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4054-count-shadow-pairs-i) |
 ## Heap
 |  |
 | ------- |
