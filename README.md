@@ -103,8 +103,17 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
 ## Enumeration
 |  |
 | ------- |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+## Array
+|  |
+| ------- |
+| [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
+## Prefix Sum
+|  |
+| ------- |
+| [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
 <!---LeetCode Topics End-->
