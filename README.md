@@ -126,6 +126,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4059-lexicographically-largest-power-array](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4059-lexicographically-largest-power-array) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4062-transform-array-using-pair-operations) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -157,6 +158,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | ------- |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -187,4 +189,8 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4062-transform-array-using-pair-operations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4062-transform-array-using-pair-operations) |
+## Counting
+|  |
+| ------- |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 <!---LeetCode Topics End-->
