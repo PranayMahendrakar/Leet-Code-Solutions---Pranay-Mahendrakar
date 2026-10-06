@@ -91,6 +91,7 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [4045-count-robot-groups](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4045-count-robot-groups) |
 ## Greedy
 |  |
 | ------- |
@@ -112,8 +113,13 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
+| [4045-count-robot-groups](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4045-count-robot-groups) |
 ## Prefix Sum
 |  |
 | ------- |
 | [4044-count-good-cyclic-rotations](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4044-count-good-cyclic-rotations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [4045-count-robot-groups](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4045-count-robot-groups) |
 <!---LeetCode Topics End-->
