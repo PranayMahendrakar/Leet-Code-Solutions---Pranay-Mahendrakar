@@ -118,6 +118,7 @@ If you find these solutions helpful, please consider giving this repository a st
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,4 +161,8 @@ If you find these solutions helpful, please consider giving this repository a st
 |  |
 | ------- |
 | [4052-cyclically-shift-rows-and-columns](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4052-cyclically-shift-rows-and-columns) |
+## Binary Search
+|  |
+| ------- |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/PranayMahendrakar/Leet-Code-Solutions---Pranay-Mahendrakar/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 <!---LeetCode Topics End-->
